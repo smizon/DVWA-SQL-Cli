@@ -4,6 +4,7 @@ Short python CLi that will detect an sql injection vulnerability
 
 
 ###### **Requirements
+  - Download a copy of dvwa VM: http://www.dvwa.co.uk/DVWA-1.0.7.iso
  	- Python3
  	- virtualenv
 
