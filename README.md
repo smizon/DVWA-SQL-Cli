@@ -3,15 +3,15 @@ Short python CLi that will detect an sql injection vulnerability
 
 
 
-######**Requirements:**
- 	- [x] Python3
- 	- [x] virtualenv
+###### **Requirements:
+ 	- Python3
+ 	- virtualenv
 
-######**Setup:**
+###### **Setup:
  	- cd into project
  	- python main.py  // to see menu
   
-######**Usage:**
+###### **Usage:
   To see menu:
     - python main.py 
       
