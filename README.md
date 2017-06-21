@@ -3,15 +3,23 @@ Short python CLi that will detect an sql injection vulnerability
 
 
 
-###### **Requirements:
+###### **Requirements
  	- Python3
  	- virtualenv
 
-###### **Setup:
- 	- cd into project
- 	- python main.py  // to see menu
+###### **Setup
+
+   Set the python3 enviroment up
+
+    ```
+  $ cd ~/DVWA-SQL-Cli/
+  $ virtualenv env
+  $ . env/bin/activate
+  $ pip install -r requirements.txt
+    ```
+
   
-###### **Usage:
+###### **Usage
   To see menu:
     - python main.py 
       
